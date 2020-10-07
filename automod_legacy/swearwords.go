@@ -52,6 +52,8 @@ var BuiltinSwearWords = map[string]bool{
 	"pube":        true,
 	"pussy":       true,
 	"queer":       true,
+	"retard":      true,
+	"retarded":    true,
 	"scrotum":     true,
 	"sex":         true,
 	"shit":        true,
